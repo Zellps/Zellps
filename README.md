@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, Eu sou o "Zell"</h1>
-<h3 align="center">Meus interesses: Data analysis, Data Analytics, Data Science, Business Intelligence, Machine Learning e Artificial Intelligence.</h3>
+<h3 align="center">Meus interesses: Data analysis, Data Analytics, Data Science, Business Intelligence, Machine Learning, Artificial Intelligence e Web Development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
